@@ -1,28 +1,28 @@
 # Site settings
-title: Musings On Data
-author: Clint Howard
+title: Title
+author: Ammar Abdalrahem
 header-img: img/home-bg.jpg
-email: clintshoward@gmail.com
+email: ammar.abdalrahem@outlook.com
 copyright_name:
-description: "Personal website for Clint Howard"
+description: "Personal website for Ammar Abdalrahem"
 baseurl: ""
-url: "https://clinthoward.github.io"
+url: "https://ammarabdalrahem.github.io"
 twitter_username:
-github_username:  clinthoward
+github_username:  
 facebook_username:
-email_username:  clintshoward@gmail.com
-linkedin_username: clint-howard-5a29b927
+email_username:  ammar.abdalrahem@outlook.com
+linkedin_username: 
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-#google_tracking_id: UA-85406922-1
-google_analytics: G-RN281GHWK6
+#google_tracking_id: 
+google_analytics: 
 
 author :
-  name : Clint Howard
-  email : clintshoward@gmail.com
-  github : clinthoward
-  linkedin: clint-howard-5a29b927
+  name : Ammar Abdalrahem
+  email : ammar.abdalrahem@outlook.com
+  github : 
+  linkedin: 
 
 # Build settings
 markdown: kramdown
