@@ -31,7 +31,7 @@ permalink: pretty
 paginate: 100
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-sitemap, jekyll-paginate, jekyll-feed]
 
 layout: default
 comments: true
